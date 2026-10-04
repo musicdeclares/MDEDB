@@ -1,7 +1,7 @@
-# AMPLIFY Operations Platform - AI Coding Agent Instructions
+# MDEDB: AI Coding Agent Instructions
 
 ## Project Overview
-**AMPLIFY** is a Next.js web platform for curating and verifying grassroots climate organizations. It provides an admin dashboard for organization assessment, scoring, and approval management. Artists see only approved, verified organizations, enforced through Supabase Row Level Security (RLS).
+**MDEDB** is a Next.js web platform for curating and verifying grassroots climate organizations. It provides an admin dashboard for organization assessment, scoring, and approval management. Artists see only approved, verified organizations, enforced through Supabase Row Level Security (RLS).
 
 ## Architecture Essentials
 

@@ -94,12 +94,12 @@ export function PublicHeader({
           <div className="flex items-center gap-3 cursor-pointer" onClick={() => router.push('/')}>
             <Image
               src="/logo.png"
-              alt="AMPLIFY: Climate Org Directory"
+              alt="Music Declares Emergency"
               width={40}
               height={40}
             />
             <h1 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-white transition-colors duration-300 hover:text-blue-500 dark:hover:text-blue-400">
-              AMPLIFY: Climate Org Directory
+              Climate Org Directory
             </h1>
           </div>
           {!isEmbedded && (
@@ -157,11 +157,11 @@ export function PublicHeader({
                 {/* Top-left: MDEUS Logo for logged-out users */}
                 <div className="w-11 h-10 sm:w-auto sm:h-10 flex items-center justify-center sm:gap-2 bg-transparent hover:bg-white/10 dark:hover:bg-black/10 transition-colors">
                   <a 
-                    href="https://www.musicdeclares.net/us/campaigns/mde-us-amplify-program"
+                    href="https://volume.musicdeclares.net"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="opacity-80 hover:opacity-100 transition-opacity flex items-center justify-center sm:gap-2 w-full h-full"
-                    title="Visit Music Declares Emergency US - AMPLIFY Program"
+                    title="Visit Turn Up The Volume"
                   >
                     <Image
                       src="/MDEUS.png"
@@ -208,11 +208,11 @@ export function PublicHeader({
             {/* Desktop MDEUS Logo - only show when logged in */}
             {user && (
               <a 
-                href="https://www.musicdeclares.net/us/campaigns/mde-us-amplify-program"
+                href="https://volume.musicdeclares.net"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="opacity-80 hover:opacity-100 transition-opacity flex-shrink-0 hidden sm:block"
-                title="Visit Music Declares Emergency US - AMPLIFY Program"
+                title="Visit Turn Up The Volume"
               >
                 <Image
                   src="/MDEUS.png"

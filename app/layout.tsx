@@ -32,9 +32,9 @@ const karla = Karla({
 });
 
 export const metadata: Metadata = {
-  title: "AMPLIFY: Climate Org Directory",
+  title: "Climate Org Directory",
   description:
-    "AMPLIFY empowers artists with easy-to-use tools to move their fans to take meaningful climate actions through high-impact, vetted partners.",
+    "Turn Up The Volume, from Music Declares Emergency, gives artists easy-to-use tools to move their fans to meaningful climate action through high-impact, vetted partners.",
 };
 
 export default function RootLayout({
@@ -48,18 +48,18 @@ export default function RootLayout({
         {/* Favicon */}
         <link rel="icon" href="/favicon.ico" />
         {/* App Title */}
-        <title>AMPLIFY: Climate Org Directory</title>
+        <title>Climate Org Directory</title>
         {/* Meta Description */}
-        <meta name="description" content="AMPLIFY empowers artists with easy-to-use tools to move their fans to take meaningful climate actions through high-impact, vetted partners." />
+        <meta name="description" content="Turn Up The Volume, from Music Declares Emergency, gives artists easy-to-use tools to move their fans to meaningful climate action through high-impact, vetted partners." />
         {/* Open Graph / Facebook */}
-        <meta property="og:title" content="AMPLIFY: Climate Org Directory" />
-        <meta property="og:description" content="AMPLIFY empowers artists with easy-to-use tools to move their fans to take meaningful climate actions through high-impact, vetted partners." />
+        <meta property="og:title" content="Climate Org Directory" />
+        <meta property="og:description" content="Turn Up The Volume, from Music Declares Emergency, gives artists easy-to-use tools to move their fans to meaningful climate action through high-impact, vetted partners." />
         <meta property="og:image" content="/logo.png" />
         <meta property="og:type" content="website" />
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="AMPLIFY: Climate Org Directory" />
-        <meta name="twitter:description" content="AMPLIFY empowers artists with easy-to-use tools to move their fans to take meaningful climate actions through high-impact, vetted partners." />
+        <meta name="twitter:title" content="Climate Org Directory" />
+        <meta name="twitter:description" content="Turn Up The Volume, from Music Declares Emergency, gives artists easy-to-use tools to move their fans to meaningful climate action through high-impact, vetted partners." />
         <meta name="twitter:image" content="/logo.png" />
         {/* Theme color */}
         <meta name="theme-color" content="#f6ec6b" />

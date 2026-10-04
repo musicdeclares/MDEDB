@@ -58,7 +58,7 @@ export const SCORING_CRITERIA = [
   { 
     key: 'global_regional_fit', 
     label: 'Global or Regional Fit',
-    description: 'Does their geography and issue area provide international or underserved-region representation for AMPLIFY?'
+    description: 'Does their geography and issue area provide international or underserved-region representation for the program?'
   },
   { 
     key: 'volunteer_pipeline', 

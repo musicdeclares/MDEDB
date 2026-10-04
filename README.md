@@ -1,4 +1,4 @@
-# AMPLIFY Operations Platform
+# MDEDB
 
 **Internal Operations System for Curating and Verifying Grassroots Climate Organizations**
 
@@ -7,7 +7,7 @@
 [![Styled with Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-blue?logo=tailwindcss)](https://tailwindcss.com/)
 [![Status: In Development](https://img.shields.io/badge/status-deployed-green)](https://orgdb.musicdeclares.net/)
 [![AGPL v3 License](https://img.shields.io/badge/license-AGPL--3.0-blue)](LICENSE)
-[![AMPLIFY](https://img.shields.io/badge/AMPLIFY-Climate%20Action?logo=https%3A%2F%2orgdb.musicdeclares.net%2Flogo.png&color=%2369bd45)](https://amplify.musicdeclares.net/)
+[![Turn Up The Volume](https://img.shields.io/badge/Turn%20Up%20The%20Volume-Climate%20Action-69bd45)](https://volume.musicdeclares.net/)
 
 ## Table of Contents
 
@@ -31,10 +31,10 @@
 
 ## Description
 
-A sophisticated platform to catalog, score, and assess grassroots climate organizations using a comprehensive 13-criteria rubric. Features an enterprise-grade admin dashboard with real-time validation, automated metadata fetching, and intelligent scoring recommendations. Built to support transparent, collective, and scalable climate action aligned with Music Declares Emergency's AMPLIFY program.
+A sophisticated platform to catalog, score, and assess grassroots climate organizations using a comprehensive 13-criteria rubric. Features an enterprise-grade admin dashboard with real-time validation, automated metadata fetching, and intelligent scoring recommendations. Built to support transparent, collective, and scalable climate action aligned with Music Declares Emergency's Turn Up The Volume program.
 
-> <img src="public/logo.png" alt="AMPLIFY" height="28" style="vertical-align:middle; margin-right:8px;" />
-> <a href="https://www.musicdeclares.net/us/campaigns/mde-us-amplify-program" style="font-weight:bold; font-size:1.1em; vertical-align:middle;">AMPLIFY</a> empowers artists with easy-to-use tools to move their fans to take meaningful climate actions through high-impact, vetted partners.
+> <img src="public/logo.png" alt="Music Declares Emergency" height="28" style="vertical-align:middle; margin-right:8px;" />
+> <a href="https://volume.musicdeclares.net" style="font-weight:bold; font-size:1.1em; vertical-align:middle;">Turn Up The Volume</a> empowers artists with easy-to-use tools to move their fans to take meaningful climate actions through high-impact, vetted partners.
 
 ---
 
